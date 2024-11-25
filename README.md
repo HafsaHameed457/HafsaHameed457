@@ -31,16 +31,15 @@ Welcome to my corner of GitHub! 👩‍💻 I’m a software engineer who’s al
 
 ## 📈 GitHub Vibes  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HafsaHameed457&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHameed457&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 💌 Let’s Connect  
-
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
-- **Email**: [youremail@example.com](mailto:youremail@example.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+ 
+- **Email**: [youremail@example.com](mailto:hafsa.hameed457@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hafsahameed457/)  
 
 ---
 
