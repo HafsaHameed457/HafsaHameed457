@@ -37,8 +37,8 @@ Welcome to my corner of GitHub! 👩‍💻 I’m a software engineer who’s al
 
 ## 💌 Let’s Connect  
  
-- **Email**: [youremail@example.com](mailto:hafsa.hameed457@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hafsahameed457/)  
+- **Email**: [hafsa.hameed457@gmail.com](mailto:hafsa.hameed457@gmail.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/hafsahameed457/](https://www.linkedin.com/in/hafsahameed457/)  
 
 ---
 
