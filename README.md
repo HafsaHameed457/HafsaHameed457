@@ -24,7 +24,6 @@ Welcome to my corner of GitHub! 👩‍💻 I’m a software engineer who’s al
 ## 🌱 What I’m Up To  
 
 - 🎯 Preparing for **AWS Certified Developer – Associate** certification.  
-- ✍️ Sharing tech tips and job updates on my [Instagram](https://instagram.com).  
 - 🎧 Jogging to audiobooks and *sometimes* pretending I’m in a movie montage.  
 
 ---
