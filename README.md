@@ -1,45 +1,40 @@
-# 👋 Hellowww, Hafsa Hameed here!!!
+# Hellowww, Hafsa Hameed here
 
-Welcome to my corner of GitHub! 👩‍💻 I’m a software engineer who’s all about solving puzzles, fixing bugs, and making tech work *smoothly*. Tech has been treating me really well since 2020, and I love giving back by creating things that actually make a difference.  
-
----
-
-## 🚀 What I’m All About  
-
-- **Frontend Geek**: Building catchy front-end of application.  
-- **Backend Wizardry**: Crafting APIs in Node.js and sometimes spicing it up with FastAPI.  
-
-📚 Constantly learning, whether it’s a new framework, a book, or from a bug that kept me up all night (it happens, don’t judge).  
+Welcome and thank you for stopping by my GitHub. Let me introduce myself first. I’m a **software engineer** who loves building systems that make life simpler, smoother, and a little less noisy.
+Since 2020, technology has been a hugeee part of my life. I find joy in solving bugs, and watching ideas turn into reality.
 
 ---
 
-## 🔧 Tools & Tech I Love  
+## 🛠 What I Build
 
-- **Frontend**: React, Tailwind CSS, styled-components
-- **Backend**: Node.js Express, FastAPI, NextJs, Flask
-- **Other Cool Stuff**: Docker and AWS
+I’m full-stack by experience, but **backend engineering** is where my heart and strength lie.
 
----
+* **Node.js & Express** – Fast, reliable, and production-ready APIs.
+* **FastAPI & Flask** – This is my fav so far.
+* **React & Next.js** – For front-end.
+* **Docker & AWS** – For scalable, cloud-native deployments.
+* **LangChain · OpenAI · Deepgram** – Building intelligent agents powered by LLMs and real-time speech processing.
 
-## 🌱 What I’m Up To  
 
-- 🎯 Preparing for **AWS Certified Developer – Associate** certification.  
-- 🎧 Jogging to audiobooks and *sometimes* pretending I’m in a movie montage.  
+## 🌱 Currently
 
----
-
-## 📈 GitHub Vibes  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HafsaHameed457&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHameed457&layout=compact&theme=tokyonight)  
+* Working on **agentic systems** that mixes reasoning, voice, and automation.
+* Experimenting with **LangChain**, **OpenAI Realtime API**, and **Deepgram** for real-world conversational agents.
 
 ---
 
-## 💌 Let’s Connect  
- 
-- **Email**: [hafsa.hameed457@gmail.com](mailto:hafsa.hameed457@gmail.com)  
-- **LinkedIn**: [https://www.linkedin.com/in/hafsahameed457/](https://www.linkedin.com/in/hafsahameed457/)  
+## 📈 GitHub at a Glance
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HafsaHameed457\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHameed457\&layout=compact\&theme=tokyonight)
 
 ---
 
-Let’s create something awesome together. 🚀
+## 💌 Connect
+
+* **Email**: [hafsa.hameed457@gmail.com](mailto:hafsa.hameed457@gmail.com)
+* **LinkedIn**: [linkedin.com/in/hafsahameed457](https://www.linkedin.com/in/hafsahameed457/)
+
+---
+
+
