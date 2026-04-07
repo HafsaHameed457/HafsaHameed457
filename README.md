@@ -33,13 +33,6 @@ Currently, I am architecting **agentic systems** that merge real-time communicat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHameed457&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
----
-
-### 🌐 Remote Readiness
-
-I am experienced in working with international teams across different time zones.
-* **Availability:** Open to Full-time/Contract roles (4+ hours overlap with EST/CET).
-* **Collaboration:** Expert in asynchronous communication, Slack/Discord, and Agile methodologies.
 
 ---
 
@@ -47,4 +40,3 @@ I am experienced in working with international teams across different time zones
 
 * **Email**: [hafsa.hameed457@gmail.com](mailto:hafsa.hameed457@gmail.com)
 * **LinkedIn**: [linkedin.com/in/hafsahameed457](https://www.linkedin.com/in/hafsahameed457/)
-* **Location**: Remote (Pakistan)
