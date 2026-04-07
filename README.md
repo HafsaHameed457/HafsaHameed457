@@ -1,4 +1,4 @@
-# 🚀 Hafsa Hameed | Backend & AI Engineer
+# Hafsa Hameed
 
 I am a **Software Engineer** specializing in building scalable backend architectures and intelligent agentic systems. With a strong foundation in **Python** and **TypeScript**, I focus on creating high-performance APIs and integrating LLMs into production-ready workflows.
 
