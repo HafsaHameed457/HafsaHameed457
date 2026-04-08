@@ -38,5 +38,4 @@ Currently, I am architecting **agentic systems** that merge real-time communicat
 
 ### 💌 Let's Connect
 
-* **Email**: [hafsa.hameed457@gmail.com](mailto:hafsa.hameed457@gmail.com)
-* **LinkedIn**: [linkedin.com/in/hafsahameed457](https://www.linkedin.com/in/hafsahameed457/)
+* **Email**: [mail](mailto:hafsa.hameed457@gmail.com)
