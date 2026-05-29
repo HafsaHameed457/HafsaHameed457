@@ -32,12 +32,9 @@ Software Engineer building agentic AI systems, RAG pipelines, and distributed ba
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafsaHameed457&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHameed457&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaHameed457&theme=tokyonight&hide_border=true" alt="Streak" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HafsaHameed457&theme=tokyonight" alt="Stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HafsaHameed457&theme=tokyonight" alt="Languages" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HafsaHameed457&theme=tokyonight&utcOffset=5" alt="Productive Time" height="160" />
 </p>
 
 <p align="center">
