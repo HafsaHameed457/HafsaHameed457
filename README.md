@@ -1,41 +1,52 @@
 # Hafsa Hameed
 
-I am a **Software Engineer** specializing in building scalable backend architectures and intelligent agentic systems. With a strong foundation in **Python** and **TypeScript**, I focus on creating high-performance APIs and integrating LLMs into production-ready workflows.
-
-Currently, I am architecting **agentic systems** that merge real-time communication with reasoning capabilities to automate complex business logic.
+Software Engineer building agentic AI systems, RAG pipelines, and distributed backends.
 
 ---
 
-### 🛠 Technical Stack
+## What I Do
 
-* **Languages:** Python (Expert), TypeScript/JavaScript (Proficient), SQL.
-* **Backend:** FastAPI, Node.js (Express), Flask.
-* **AI & Search:** LangChain, OpenAI Realtime API, Deepgram, **Dense Retrieval & Reranking**.
-* **Infrastructure:** AWS (EC2, S3, Lambda), Docker, CI/CD.
-* **Data:** PostgreSQL, MongoDB, Redis, Vector Databases (Pinecone/Milvus).
-
----
-
-### 🏗 Featured Projects & Expertise
-
-* **Advanced Information Retrieval:** Implementing **Dense Retrieval** and **Reranking** pipelines to build high-accuracy RAG (Retrieval-Augmented Generation) systems.
-* **Agentic Workflows & Chatbots:** Developing intelligent conversational agents using **LangChain** and **OpenAI** for automated reasoning, memory management, and real-time speech-to-text.
-* **System Architecture:** Designing multi-service integrations with a focus on **non-functional requirements** (scalability, security, and low latency).
-* **API Design:** Building type-safe, production-ready REST & GraphQL APIs with consistent JSON structures and comprehensive documentation.
-* **CI/CD & Git:** Proficient in managing complex codebases, upstream repository synchronization, and automated deployment pipelines.
+- Design multi-agent LangGraph workflows for enterprise process automation with stateful reasoning and tool use
+- Build RAG pipelines with dense retrieval, hybrid search, and cross-encoder reranking over vector stores
+- Engineer voice AI agents using Deepgram and LangChain for real-time conversational support
+- Develop real-time tracking systems on Node.js with event-driven AWS architecture
+- Ship scalable REST APIs and microservices with FastAPI, Node.js, Docker, and ECS
 
 ---
 
-### 📈 GitHub Stats & Activity
+## Skills
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafsaHameed457&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHameed457&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+**AI & Agentic** — LangChain, LangGraph, OpenAI, Deepgram (STT/TTS), RAG, Dense Retrieval, Cross-Encoder Reranking, Vector Databases (Pinecone, Milvus), Prompt Engineering, Multi-Agent Orchestration, Memory Management
+
+**Backend** — Node.js, FastAPI (Python), Flask, REST APIs, Service-Oriented Architecture, JWT Authentication, Stripe Integration
+
+**Frontend** — React, TypeScript, Next.js, Redux, Tailwind CSS, Web Performance Optimization
+
+**Databases** — PostgreSQL, MySQL, MongoDB, Redis, SQL Profiling, Index Tuning
+
+**Cloud & DevOps** — AWS (ECS, EC2, CloudWatch, S3), Docker, GitHub Actions, CI/CD, Linux
+
+**Testing** — TDD, Cypress (E2E), Pytest
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafsaHameed457&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHameed457&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaHameed457&theme=tokyonight&hide_border=true" alt="Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HafsaHameed457&theme=tokyonight&hide_border=true&hide_title=true" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
-### 💌 Let's Connect
+## Contact
 
-* **Email**: [mail](mailto:hafsa.hameed457@gmail.com)
+Email: hafsa.hameed457@gmail.com
