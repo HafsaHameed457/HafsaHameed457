@@ -16,17 +16,16 @@ Software Engineer building agentic AI systems, RAG pipelines, and distributed ba
 
 ## Skills
 
-**AI & Agentic** — LangChain, LangGraph, OpenAI, Deepgram (STT/TTS), RAG, Dense Retrieval, Cross-Encoder Reranking, Vector Databases (Pinecone, Milvus), Prompt Engineering, Multi-Agent Orchestration, Memory Management
-
-**Backend** — Node.js, FastAPI (Python), Flask, REST APIs, Service-Oriented Architecture, JWT Authentication, Stripe Integration
-
-**Frontend** — React, TypeScript, Next.js, Redux, Tailwind CSS, Web Performance Optimization
-
-**Databases** — PostgreSQL, MySQL, MongoDB, Redis, SQL Profiling, Index Tuning
+**Agentic & AI** — LangChain, LangGraph, OpenAI, Deepgram (STT/TTS), RAG, Dense Retrieval, Cross-Encoder Reranking, Vector Databases (Pinecone, Milvus), Prompt Engineering, Multi-Agent Orchestration, Memory Management
 
 **Cloud & DevOps** — AWS (ECS, EC2, CloudWatch, S3), Docker, GitHub Actions, CI/CD, Linux
 
-**Testing** — TDD, Cypress (E2E), Pytest
+**Backend** — Node.js, FastAPI (Python), Flask, REST APIs, Service-Oriented Architecture, JWT Authentication, Stripe Integration
+
+**Databases** — PostgreSQL, MySQL, MongoDB, Redis, SQL Profiling, Index Tuning
+
+**Frontend** — React, TypeScript, Next.js, Redux, Tailwind CSS
+
 
 ---
 
